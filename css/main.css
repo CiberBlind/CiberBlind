@@ -856,7 +856,7 @@ section {
   background-image:url(../images/CiberBlind-Contato1.png);
   padding-bottom: 90px;
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 #contact-us .heading {
