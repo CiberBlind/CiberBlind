@@ -974,4 +974,10 @@ p {
   text-align: justify;
 }
 
+imgH {
+  max-width: 100%;
+  height: auto;
+}
+
+
 /*Presets*/
